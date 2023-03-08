@@ -6,9 +6,26 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "flowbite": "^1.6.3",
+    "gsap": "^3.11.4",
+    "lottie-react": "^2.4.0",
+    "node-polyfill-webpack-plugin": "^2.0.1",
+    "nodemailer": "^6.9.1",
+    "nodemailer-react": "^1.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-form-input-validation": "^2.1.0",
+    "react-hook-form": "^7.43.2",
+    "react-loading-indicators": "0.0.11",
+    "react-particles": "^2.9.3",
     "react-scripts": "5.0.1",
+    "react-slideshow-image": "^4.2.1",
+    "react-text-typing": "^0.2.0",
+    "react-toastify": "^9.1.1",
+    "react-tsparticles": "^2.9.3",
+    "react-type-animation": "^2.1.2",
+    "tsparticles": "^2.9.3",
+    "tsparticles-engine": "^2.9.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +51,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.4",
+    "tailwindcss": "^3.2.6"
   }
 }

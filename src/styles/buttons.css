@@ -1,0 +1,18 @@
+#whatsapp {
+    position: fixed;
+    top: 80%;
+    right: 5%;
+    z-index: 80;
+}
+#form {
+    background-color:rgba(255,255,255,0.1);
+    border-radius: 15px;
+
+}
+
+#cards{
+    background-image: url("../assets/card.svg");
+}
+#cards:hover{
+    background-image: url('../assets/cardColor.svg');
+}
