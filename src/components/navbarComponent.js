@@ -9,15 +9,15 @@ export function NavbarComponent() {
     },
     {
       route: "Nuestros servicios",
-      href: "#whfyus",
+      href: "#services",
     },
     {
       route: "Trabajos recientes",
-      href: "#whsyus",
+      href: "#clients",
     },
     {
       route: "Contacto",
-      href: "#whyvus",
+      href: "#contact",
     },
   ];
   var [open, setOpen] = useState(false);
@@ -54,7 +54,7 @@ export function NavbarComponent() {
     <div className="absolute z-40 top-0 left-0 w-full">
       <nav className="relative z-20 bg-transparent px-2 sm:px-4 py-2.5 rounded dark:bg-gray-900">
         <div className="z-20 container flex flex-wrap items-center justify-between mx-auto">
-          <a className="flex items-center">
+          <div className="flex items-center">
             <img
               src="https://res.cloudinary.com/logicielapplab/image/upload/v1675059391/LogicielApplab/Logo_gvmg58.png"
               className="h-6 mr-3 sm:h-9"
@@ -63,7 +63,7 @@ export function NavbarComponent() {
             <span className="self-center text-xl font-semibold whitespace-nowrap text-white">
               Logiciel Applab
             </span>
-          </a>
+          </div>
           <button
             onClick={() => setOpen(!open)}
             id="navButton"

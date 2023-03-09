@@ -54,7 +54,7 @@ export function ServicesSectionsComponent() {
   };
 
   return (
-    <div id="slideshow" className="slide-container w-full py-10 px-10">
+    <div id="services" className="slide-container w-full py-10 px-10">
       <h1 className="flex-initial text-center text-4xl text-white mb-10">
         Nuestros Servicios
       </h1>

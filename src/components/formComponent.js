@@ -7,13 +7,7 @@ import { Seek } from "react-loading-indicators";
 
 export function FormComponent() {
   const [button, setButton] = useState(true);
-  const {
-    register,
-    handleSubmit,
-    watch,
-    setValue,
-    formState: { errors },
-  } = useForm();
+  const { register, handleSubmit, watch, setValue } = useForm();
   const onSubmit = (data) => {
     console.log(data);
     fetch("https://diveevolutiongpsbackend.uc.r.appspot.com/api/sendMail", {

@@ -3,7 +3,7 @@ import Lottie from "lottie-react";
 import contactanimation from "../assets/contactanimation.json";
 export function ContactComponent() {
   return (
-    <div className="py-10 flex flex-col md:flex-row items-center">
+    <div id="contact" className="py-10 flex flex-col md:flex-row items-center">
       <FormComponent />
       <Lottie
         animationData={contactanimation}

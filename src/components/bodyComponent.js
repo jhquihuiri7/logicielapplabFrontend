@@ -30,7 +30,7 @@ export function BodyComponent() {
           Nuestros <span className="text-[#ed184f]">trabajos recientes </span>
         </h1>
       </div>
-      <div className="flex flex-wrap w-full justify-around">
+      <div id="clients" className="flex flex-wrap w-full justify-around">
         {cards.map((card) => (
           <div
             key={card.id}
