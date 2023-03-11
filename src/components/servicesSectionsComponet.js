@@ -55,13 +55,13 @@ export function ServicesSectionsComponent() {
 
   return (
     <div id="services" className="slide-container w-full py-10 px-10">
-      <h1 className="flex-initial text-center text-4xl text-white mb-10">
+      <h1 className="text-center text-4xl text-white mb-10">
         Nuestros Servicios
       </h1>
       <Slide {...properties}>
         {slideImages.map((slideImage, index) => (
-          <div key={index} className="flex flex-row h-full">
-            <div className="flex-initial px-20 w-1/2 h-full">
+          <div key={index} className="flex flex-col-reverse md:flex-row h-full">
+            <div className="flex-initial px-20 md:w-1/2 h-full">
               <div className="flex flex-col h-full justify-center">
                 <h1 className="flex-initial text-center text-3xl text-[#ed184f] my-5">
                   {slideImage.name}
@@ -71,7 +71,7 @@ export function ServicesSectionsComponent() {
                 </h3>
               </div>
             </div>
-            <div className="flex-initial w-1/2">
+            <div className="flex-initial md:w-1/2">
               <Lottie
                 animationData={slideImage.animation}
                 style={{ height: 400 }}

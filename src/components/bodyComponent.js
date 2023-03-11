@@ -66,8 +66,7 @@ export function BodyComponent() {
                     <h3
                       className=" text-center font-bold"
                       style={{
-                        color:
-                          isHover && index === card.id ? "#ed184f" : "white",
+                        color: isHover && index === card.id ? "white" : "white",
                       }}
                     >
                       {card.description}
@@ -90,7 +89,9 @@ function Cellphone() {
   });
   React.useEffect(() => {
     function handleResize() {
-      if (window.innerWidth < 800) {
+      if (window.innerWidth < 1000) {
+        setDimensions({ height: 350 });
+      } else if (window.innerWidth < 800) {
         setDimensions({ height: 350 });
       } else if (window.innerWidth < 600) {
         setDimensions({ height: 250 });
@@ -105,19 +106,19 @@ function Cellphone() {
   return (
     <Lottie
       animationData={headeranimation}
-      style={{ height: size.height }}
-      className="z-10 left-2/4 flex-1"
+      style={{ height: 450 }}
+      className="z-10 left-2/4 flex-initial"
     />
   );
 }
 function WhyUs() {
   return (
-    <div id="whyus" className="z-20 text-white flex-1 py-6 px-6">
-      <div className="flex flex-col justify-around h-full py-32">
-        <h1 className="flex-initial text-4xl">
+    <div id="whyus" className="z-20 text-white flex-1 py-6 px-6 md:px-10">
+      <div className="flex flex-col justify-center h-full">
+        <h1 className="flex-initial text-4xl mb-5">
           ¿Porqué <span className="text-[#ed184f]">Logiciel Applab</span>?
         </h1>
-        <h3 className="flex-initial text-justify pr-10">
+        <h3 className="flex-1 text-justify mt-5">
           Somos una empresa especializada en el desarrollo de aplicaciones
           móviles, sitios web y sistemas de software hechos según tus
           necesidades. Con nuestro equipo altamente calificado te garantizamos

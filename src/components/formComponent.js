@@ -77,7 +77,7 @@ export function FormComponent() {
   return (
     <div
       id="form"
-      className="flex-1 py-5 mx-10"
+      className="flex-1 w-3/4 py-5 md:mx-10"
       autoComplete="off"
       onSubmit={handleSubmit(onSubmit)}
     >
