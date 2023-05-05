@@ -20,4 +20,11 @@ export const cards = [
     description: "Aplicación de limpieza (Android e IOS)",
     id: "client3",
   },
+  {
+    greyImage: "clients/NTgrey.png",
+    whiteImage: "clients/NT.png",
+    name: "Nazca Travel",
+    description: "Sitio Web de Tour Operador",
+    id: "client4",
+  },
 ];
