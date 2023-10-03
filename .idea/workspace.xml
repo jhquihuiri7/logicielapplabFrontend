@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c55abd1d-41f7-4507-922f-6873460b50d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/logiciel_applab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footerComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footerComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/headerComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/headerComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/particlesComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/particlesComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/whatsappComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/whatsappComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/backgroundgrid.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/backgroundgrid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/buttons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/services.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/services.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/tsparticles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/tsparticles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="a90k8jhw" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LedRZbSthFHeHwZklGb9nlhB33" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/jhquihuiri7/Documents/REACT/logiciel_applab",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\Documents\\REACT\\logiciel_applab\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "show.migrate.to.gradle.popup": "false",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2021.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\REACT\logiciel_applab\public\clients" />
+      <recent name="D:\Documents\REACT\logiciel_applab\src\assets" />
+      <recent name="D:\Documents\REACT\logiciel_applab\public\resources" />
+      <recent name="D:\Documents\REACT\logiciel_applab\public" />
+      <recent name="D:\Documents\REACT\logiciel_applab\src\assets\clients" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\REACT\logiciel_applab\src\components" />
+      <recent name="D:\Documents\REACT\logiciel_applab\src\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c55abd1d-41f7-4507-922f-6873460b50d8" name="Changes" comment="" />
+      <created>1676235474883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676235474883</updated>
+      <workItem from="1676235476809" duration="11363000" />
+      <workItem from="1676312723399" duration="1774000" />
+      <workItem from="1676393205063" duration="421000" />
+      <workItem from="1676402671665" duration="1151000" />
+      <workItem from="1676412769374" duration="1327000" />
+      <workItem from="1676414169607" duration="1822000" />
+      <workItem from="1676582024382" duration="624000" />
+      <workItem from="1676598805116" duration="1492000" />
+      <workItem from="1676742763217" duration="6128000" />
+      <workItem from="1676848153970" duration="12000" />
+      <workItem from="1676911490666" duration="5846000" />
+      <workItem from="1677251596052" duration="579000" />
+      <workItem from="1677263511876" duration="7580000" />
+      <workItem from="1677356909539" duration="5318000" />
+      <workItem from="1677433087316" duration="4066000" />
+      <workItem from="1677460347866" duration="5911000" />
+      <workItem from="1677507112180" duration="300000" />
+      <workItem from="1677530222949" duration="7077000" />
+      <workItem from="1677597725948" duration="11858000" />
+      <workItem from="1677611342536" duration="736000" />
+      <workItem from="1677614139369" duration="715000" />
+      <workItem from="1677688760150" duration="163000" />
+      <workItem from="1677704344744" duration="4111000" />
+      <workItem from="1677812229874" duration="1780000" />
+      <workItem from="1677853308172" duration="11000" />
+      <workItem from="1677854499017" duration="657000" />
+      <workItem from="1677858267213" duration="6806000" />
+      <workItem from="1677884398156" duration="51000" />
+      <workItem from="1677946653661" duration="1751000" />
+      <workItem from="1677950995796" duration="232000" />
+      <workItem from="1677951721925" duration="46000" />
+      <workItem from="1677953157193" duration="466000" />
+      <workItem from="1677954707497" duration="367000" />
+      <workItem from="1677958301181" duration="4123000" />
+      <workItem from="1678026614604" duration="2279000" />
+      <workItem from="1678035167563" duration="5322000" />
+      <workItem from="1678111179259" duration="2957000" />
+      <workItem from="1678161851455" duration="525000" />
+      <workItem from="1678198392017" duration="11000" />
+      <workItem from="1678282355040" duration="5299000" />
+      <workItem from="1678300194023" duration="3986000" />
+      <workItem from="1678310188405" duration="6233000" />
+      <workItem from="1678328883574" duration="2175000" />
+      <workItem from="1678395653336" duration="703000" />
+      <workItem from="1678558632185" duration="4550000" />
+      <workItem from="1678577830367" duration="5204000" />
+      <workItem from="1679510044131" duration="1007000" />
+      <workItem from="1682548311221" duration="813000" />
+      <workItem from="1682570787027" duration="23000" />
+      <workItem from="1683323055904" duration="575000" />
+      <workItem from="1683325105178" duration="1298000" />
+      <workItem from="1694074536109" duration="2434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
