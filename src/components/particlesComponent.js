@@ -30,7 +30,7 @@ export  function HeaderParticles (){
                         color: {
                             value: "#3a34eb",
                         },
-                        image: "url('https://res.cloudinary.com/logicielapplab/image/upload/v1676302543/LogicielApplab/software-developer-6521720_1920_psc1wb-min_txftqk.jpg')",
+                        image: "url('https://res.cloudinary.com/dcd7qlcjn/image/upload/v1734363367/software-developer-6521720_1920_v7ij4q.jpg')",
                         position: "center",
                         size: "100% 100% cover",
                         repeat: "repeat",
